@@ -1,37 +1,89 @@
- Academia-Industry Bridge
-"Translate this academic research abstract into an industry-friendly project pitch."
 
-"Suggest possible industry partners for a research initiative on smart cities."
+- "ICE Framework (Instruction, Context, Example)"  
+- "RCR (Role, Constraints, Result)"  
+- "Chain of Thought prompting"  
+- "Temperature Control" (specify creativity level where relevant)  
+- "Taxonomy" (grouping prompts into granular sub-domains)  
+- "Task Prompts" (clear action-oriented prompts)  
 
-"Identify funding bodies interested in university-industry AI collaborations."
+---
 
-Healthcare & Biomedical Collaboration
-"Analyze this clinical trial data and suggest potential pharmaceutical partners for research expansion."
+### 🔬 "Healthcare & Biomedical Collaboration"
 
-"Summarize the regulatory requirements for launching a medical device in the EU market."
+"Sub-domain: Clinical Trial Analysis & Pharma Partnerships"
+- "Prompt (ICE + RCR + Chain of Thought):"  
+  *"You are a biomedical data strategist. Given clinical trial data on [disease area], analyze outcomes, identify success indicators, and match with top 3 pharmaceutical firms aligned with similar research pipelines. Explain your reasoning step-by-step. Output in table format (Company, Relevance Score, Justification)."*
 
-"Match ongoing biomedical research with companies investing in translational medicine."
+"Sub-domain: Regulatory Compliance"
+- "Prompt (Task Prompt + Chain of Thought):"  
+  *"Outline the EU Class IIb medical device approval pathway. Start with pre-clinical data collection, walk through documentation, timelines, and CE certification steps. Think step-by-step. Focus on MedTech firms under 100 employees."*
 
- Manufacturing & Engineering
-"Identify process automation opportunities for a mid-size automotive parts manufacturer."
+"Sub-domain: Translational Research Matchmaking"
+- "Prompt (Taxonomy + RCR):"  
+  *"Act as an AI collaboration consultant. Your task: match an academic research project in immunotherapy with 3 potential biotech partners using public funding databases. Include funding history, collaboration patterns, and strategic alignment."*
 
-"Compare AI-powered predictive maintenance tools suitable for heavy machinery industries."
+---
 
-"Generate a workflow for integrating AI in supply chain optimization."
+### ⚙️ "Manufacturing & Engineering"
 
- Sustainability & Green Tech
-"Find potential collaborators working on circular economy solutions in the materials science domain."
+"Sub-domain: Automation Opportunities"
+- "Prompt (ICE + Temperature Control):"  
+  *"You are a lean manufacturing expert. Identify 3 AI automation opportunities for an auto parts factory looking to cut waste by 15%. Be practical, not overly creative (temperature: low). Consider sensors, predictive tools, and task-specific bots."*
 
-"Create a proposal outline for an AI-driven carbon footprint analysis platform."
+"Sub-domain: Predictive Maintenance"
+- "Prompt (Task Prompt + Chain of Thought):"  
+  *"List and evaluate 3 AI-based predictive maintenance tools for mining machinery. Think step-by-step: sensor compatibility, data modeling method, cost, success stories. Rate each from 1-5 based on fit for remote operations."*
 
-"Map the sustainability innovation landscape in Europe for funding opportunities."
+"Sub-domain: AI Workflow Development"
+- "Prompt (RCR + Taxonomy):"  
+  *"As an AI workflow architect, draft a 5-step integration plan to use AI for supply chain demand forecasting in a global electronics firm. Constraints: existing ERP system (SAP), data privacy compliance."*
 
- Tech & Innovation
-"Summarize global AI ethics guidelines for cross-border tech collaboration projects."
+---
 
-"Generate a partnership strategy between an AI startup and an academic research lab."
+### 🌱 "Sustainability & Green Tech"
 
-"Assess the commercial viability of an AI-based sentiment analysis tool in marketing."
+"Sub-domain: Partnership Discovery"
+- "Prompt (ICE + Taxonomy):"  
+  *"Instruction: Identify top 5 EU-based startups in polymer recycling. Context: Mid-size chemical company seeking partners. Example Output: Name, Focus Area, TRL, Funding Status, Contact Lead."*
 
- 
+"Sub-domain: Proposal Drafting"
+- "Prompt (Chain of Thought + Task):"  
+  *"Write a 4-section proposal (Intro, Objectives, Method, Impact) for an AI tool to analyze and reduce carbon emissions in textile factories. Think through measurable metrics and scalable architecture."*
 
+"Sub-domain: Ecosystem Mapping"
+- "Prompt (RCR + Taxonomy + Chain of Thought):"  
+  *"Act as a sustainability analyst. Map Europe’s top 10 circular economy innovation hubs from 2020–2024. Use public funding data, patents filed, startup density. Output as: City, Sector Focus, Funding Volume, Notable Startups."*
+
+---
+
+### 💻 "Tech & Innovation"
+
+"Sub-domain: Ethical AI"
+- "Prompt (ICE + Chain of Thought):"  
+  *"Compare AI ethics frameworks from the EU, USA, and Singapore. Context: Global AI partnership agreement. Think: principles, enforcement, and conflict zones. Output as a comparison matrix with citations."*
+
+"Sub-domain: Startup-Academia Partnership"
+- "Prompt (Task + RCR):"  
+  *"Design a strategic partnership roadmap for a generative AI startup collaborating with a university NLP lab. Constraints: 12-month timeline, limited funding. Result: milestones, roles, KPIs, IP sharing terms."*
+
+"Sub-domain: Market Viability"
+- "Prompt (Chain of Thought + ICE):"  
+  *"Assess the market viability of an AI-powered sentiment analysis tool for e-commerce. Think: market size, competitors, pricing models, barriers to adoption. Summarize using SWOT + TAM-SAM-SOM."*
+
+---
+
+### 🎓 "Academia-Industry Bridge"
+
+"Sub-domain: Research Translation"
+- "Prompt (ICE + Role + Chain of Thought):"  
+  *"As a knowledge transfer officer, convert this abstract [INSERT TEXT] into a 150-word pitch for industry partners. Step-by-step: identify key innovation, its application, commercial viability, and collaboration value."*
+
+"Sub-domain: Smart City Collaborations"
+- "Prompt (RCR + Taxonomy):"  
+  *"Act as a smart city partnership advisor. Identify 5 private companies (IoT, telecom, infrastructure) likely to partner on smart urban development. Match with university capabilities. Output: Partner, Fit Reason, Previous Collaborations."*
+
+"Sub-domain: Funding Identification"
+- "Prompt (ICE + Task Prompt):"  
+  *"List 5 international funding sources that support AI-based academic-industry partnerships in renewable energy. Include: grant name, agency, eligibility, deadline, and link."*
+
+---
