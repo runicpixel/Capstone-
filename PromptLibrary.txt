@@ -1,0 +1,37 @@
+ Academia-Industry Bridge
+"Translate this academic research abstract into an industry-friendly project pitch."
+
+"Suggest possible industry partners for a research initiative on smart cities."
+
+"Identify funding bodies interested in university-industry AI collaborations."
+
+Healthcare & Biomedical Collaboration
+"Analyze this clinical trial data and suggest potential pharmaceutical partners for research expansion."
+
+"Summarize the regulatory requirements for launching a medical device in the EU market."
+
+"Match ongoing biomedical research with companies investing in translational medicine."
+
+ Manufacturing & Engineering
+"Identify process automation opportunities for a mid-size automotive parts manufacturer."
+
+"Compare AI-powered predictive maintenance tools suitable for heavy machinery industries."
+
+"Generate a workflow for integrating AI in supply chain optimization."
+
+ Sustainability & Green Tech
+"Find potential collaborators working on circular economy solutions in the materials science domain."
+
+"Create a proposal outline for an AI-driven carbon footprint analysis platform."
+
+"Map the sustainability innovation landscape in Europe for funding opportunities."
+
+ Tech & Innovation
+"Summarize global AI ethics guidelines for cross-border tech collaboration projects."
+
+"Generate a partnership strategy between an AI startup and an academic research lab."
+
+"Assess the commercial viability of an AI-based sentiment analysis tool in marketing."
+
+ 
+
