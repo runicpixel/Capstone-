@@ -1,0 +1,110 @@
+📁 1. Grant Writing – University–Industry Collaboration
+🔹 Prompt: Finding Relevant Grant Opportunities
+Summarize what we need: Identify active funding calls supporting AI-based university–industry collaboration projects.
+What specifics: Must include grant name, funding body, eligibility, application deadline, and research theme alignment (e.g., AI in health, green tech).
+Avoids: General scholarships, internal research-only grants, or non-collaborative funding.
+Results be like:
+
+Grant Name: Horizon Europe – AI for Health
+
+Body: European Commission
+
+Deadline: 15 June 2025
+Any other detail: Include international as well as regional opportunities.
+Citation: Use Dimensions.ai or official funding bodies.
+Reason: Helps academic researchers and industry partners quickly identify collaboration-ready funding programs.
+
+🔹 Prompt: Drafting a Collaborative Grant Proposal
+Summarize what we need: Generate a 500-word draft grant proposal for a joint academic–industry project.
+What specifics: Proposal should include problem statement, objectives, impact, mutual benefits, and industrial partner's contribution.
+Avoids: Overly generic goals or missing stakeholder roles.
+Results be like: A structured draft with 5 sections ready to be reviewed and refined.
+Any other detail: Proposal should highlight innovation and real-world relevance.
+Citation: Base structure on templates from Grantable.ai or previous successful submissions.
+Reason: Streamlines the proposal-writing process and ensures alignment with grant evaluation criteria.
+
+🔹 Prompt: Reviewer Summary Generator
+Summarize what we need: Create a concise, persuasive executive summary of the grant proposal tailored for funding body reviewers.
+What specifics: Max 200 words, clear ROI, scalability, and societal impact.
+Avoids: Technical jargon or university-specific language.
+Results be like: Reviewer can quickly grasp purpose and potential.
+Any other detail: Include keywords from the original call to match relevance.
+Citation: Use Scite.ai to reference similar published projects or successful grants.
+Reason: Enhances the proposal's success by aligning with reviewer expectations.
+
+📁 2. Research-Based Prompts – Academic Use (Students & Staff)
+👩‍🎓 For Students
+🔹 Beginner Level Prompt:
+Summarize what we need: Summarize the methodology of a given AI research paper in simple terms.
+What specifics: Limit to 3–4 sentences, non-technical, for third-year undergrads.
+Avoids: Overuse of academic terms, citations, or deep technical analysis.
+Results be like: “The researchers collected health data, trained an AI model, and tested it on patient records.”
+Citation: Input paper from Google Scholar or Dimensions.ai.
+Reason: Builds student understanding of research structure.
+
+🔹 Intermediate Level Prompt:
+Summarize what we need: Write a mini literature review (300 words) on AI in smart cities using 3 peer-reviewed sources.
+What specifics: Use citation, thematic grouping, and include gap identification.
+Avoids: Copy-pasting abstracts, single-source summaries.
+Results be like: A properly structured mini-review with synthesis.
+Citation: From Dimensions.ai, filtered for 2020–2024.
+Reason: Develops analytical skills and source comparison abilities.
+
+🔹 Advanced Level Prompt:
+Summarize what we need: Identify a research gap in a field (e.g., AI in agriculture), and propose an experiment to address it.
+What specifics: Hypothesis, method, expected outcomes, impact.
+Avoids: Vague or theoretical-only solutions.
+Results be like: "Despite advancements in precision irrigation, AI lacks real-time plant stress data. I propose an IoT-AI hybrid trial..."
+Citation: Based on review from Scite.ai or Semantic Scholar.
+Reason: Trains students in research ideation and validation.
+
+👩‍🏫 For Academic Staff
+🔹 Beginner Prompt: Outreach Email
+Summarize what we need: Draft a professional email to initiate contact with a potential industry collaborator.
+What specifics: Include research context, proposed synergy, and next steps.
+Avoids: Informal tone or unclear ask.
+Results be like: Ready-to-send email for cold outreach.
+Citation: NA
+Reason: Facilitates initial engagement in university–industry partnerships.
+
+🔹 Intermediate Prompt: Abstract for Joint Publication
+Summarize what we need: Create an abstract (250 words) for a paper co-authored by academic and industry partners.
+What specifics: Mutual value, innovation, method, and implications.
+Avoids: Overly academic tone, missing industry contributions.
+Results be like: Abstract ready for conferences or journals.
+Citation: Structure based on IEEE/ACM formats.
+Reason: Encourages cross-sector publishing efforts.
+
+🔹 Advanced Prompt: Research Roadmap Creation
+Summarize what we need: Generate a 2-year research roadmap for an AI+Industry project with defined milestones.
+What specifics: Include timeline, KPIs, partner roles, funding checkpoints.
+Avoids: Lack of structure or generic milestones.
+Results be like: Roadmap diagram + text brief.
+Citation: Refer to Horizon Europe and CRC (Australia) formats.
+Reason: Assists in long-term research planning.
+
+📁 3. Additional Industry Collaboration Use Case Prompts
+🏭 Manufacturing – Automation Integration
+Summarize what we need: Recommend 3 AI tools for factory process automation.
+What specifics: Include tool name, use case, ROI estimate, and integration complexity.
+Avoids: Overly theoretical or consumer-facing tools.
+Results be like: Tool Comparison Table: Seebo, Oden, Tulip.
+Citation: Use company case studies and analyst blogs.
+Reason: Enables informed tech adoption in manufacturing.
+
+🌱 Sustainability – Proposal Drafting
+Summarize what we need: Write a 1-page proposal for an AI-based carbon monitoring tool in textile manufacturing.
+What specifics: Include objectives, method, impact, scalability.
+Avoids: Jargon or overpromising.
+Results be like: Clear proposal ready for pilot funding or VC interest.
+Citation: Use successful case templates from ClimateAI or Cradle.
+Reason: Accelerates climate-tech adoption through clear communication.
+
+🏙️ Smart Cities – Partnership Mapping
+Summarize what we need: Identify 5 companies to partner with a university on a smart city mobility project.
+What specifics: Match capabilities, prior collaborations, relevance.
+Avoids: Irrelevant or inactive firms.
+Results be like:
+| Company | Relevance | Previous Collab | Sector |
+Citation: Use Crunchbase, Dimensions.ai, LinkedIn.
+Reason: Informs strategic outreach and proposal targeting.
