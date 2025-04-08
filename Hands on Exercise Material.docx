@@ -1,0 +1,124 @@
+🧠 Hands-On Exercise Materials
+🎯 Section A: Practice Activities by Skill Level
+👩‍🎓 For Students
+Skill Level	Activity	AI Tool
+Beginner	Summarize a research paper in plain English	ChatGPT
+Intermediate	Write a mini literature review (300 words, 3 sources)	Claude
+Advanced	Propose a novel AI-based research project with methodology	Claude
+👩‍🏫 For Academic Staff
+Skill Level	Activity	AI Tool
+Beginner	Draft an industry outreach email	ChatGPT
+Intermediate	Write an abstract for a joint research grant	Claude
+Advanced	Create a 2-year research roadmap with milestones and KPIs	Claude + Dimensions.ai
+📑 Section B: Refined Sample Prompts (Grants & Research)
+🔹 Prompt: Grant Discovery for AI-Healthcare Project (Beginner)
+Summarize what we need: Find 3 active grants for AI-powered health research involving academic–industry collaboration.
+
+What specifics: Name, agency, theme, eligibility, deadline, link.
+
+Avoids: Scholarships or basic science grants without collaboration requirements.
+
+Results be like:
+| Grant Name | Funder | Theme | Deadline | Link |
+
+Any other detail: Use Dimensions.ai or relevant regional databases.
+
+Citation: Dimensions.ai > “AI in Health” + collaboration filter.
+
+Reason: Helps users identify realistic funding options for collaborative work.
+
+🔹 Prompt: Grant Proposal Draft – Climate AI Tool (Intermediate)
+Summarize what we need: Draft a 500-word proposal for an AI platform that reduces carbon emissions in textile manufacturing.
+
+What specifics: Problem, objectives, method, industrial role, and SDG alignment.
+
+Avoids: Overuse of buzzwords or generic project goals.
+
+Results be like: Structured proposal sections with clear value for industry.
+
+Any other detail: Include mutual benefit between university and company.
+
+Citation: Sample structures from Grantable.ai or EU Horizon templates.
+
+Reason: Speeds up initial proposal drafting with clear collaborative framing.
+
+🔹 Prompt: Research Gap Identification – Smart Cities (Advanced)
+Summarize what we need: Identify a gap in AI for smart mobility, and propose a project idea to address it.
+
+What specifics: Include background, hypothesis, method, and KPIs.
+
+Avoids: Repeating existing solutions without new angles.
+
+Results be like: A novel project idea suitable for grant applications.
+
+Any other detail: Based on analysis of recent papers from Dimensions.ai (2020–2024).
+
+Citation: Cite real papers via Dimensions.ai > Smart Cities + AI + Mobility.
+
+Reason: Helps academic staff or students position their work in a high-impact area.
+
+🔹 Prompt: Abstract for Joint Research Paper – Sustainability & AI (Intermediate)
+Summarize what we need: Generate a 250-word abstract for a co-authored paper on using AI to optimize energy use in buildings.
+
+What specifics: Mention research novelty, industrial partner's role, data model used, and expected outcome.
+
+Avoids: Too much focus on academic theory.
+
+Results be like: “This study explores…” to “Results suggest…” structure.
+
+Any other detail: Use RCR format to maintain structure.
+
+Citation: Based on IEEE/Elsevier abstract guidelines.
+
+Reason: Helps generate high-quality, publish-ready abstracts quickly.
+
+🔹 Prompt: Partner Mapping for Research Collaboration – Smart Cities (Beginner/Staff)
+Summarize what we need: Identify 5 companies suitable for university collaboration on smart mobility.
+
+What specifics: Company name, relevance, collaboration history, country, sector.
+
+Avoids: Companies with no innovation arm or government focus only.
+
+Results be like:
+| Company | Sector | Fit Reason | Previous Research Ties |
+
+Any other detail: Use Crunchbase + Dimensions.ai to validate.
+
+Citation: Dimensions.ai / LinkedIn + University research portals.
+
+Reason: Supports researchers in building strategic partnerships.
+
+🧾 Section C: Templates for Workshop Participants
+📄 Template 1: Grant Abstract Generator
+markdown
+Copy
+**Project Title:**  
+**Background (50 words):**  
+**Problem Statement (50 words):**  
+**Objectives (100 words):**  
+**Methodology (100 words):**  
+**Industry Involvement & Impact (100 words):**  
+**Keywords:**  
+📄 Template 2: Research Summary Output (Beginner)
+markdown
+Copy
+**Paper Title:**  
+**Main Topic:**  
+**Method Used:**  
+**Results (1–2 sentences):**  
+**Why It Matters:**  
+📄 Template 3: AI Tool Matchmaking Table
+Use Case	Best AI Tool	Reason	Suggested Prompt
+Grant Summary	ChatGPT	Fast, clear summaries	ICE prompt + low temperature
+Roadmap Creation	Claude	Step-by-step reasoning	RCR + Chain-of-Thought
+Partner Mapping	Dimensions.ai	Verified funding/collab data	Filter-based search
+🧠 Template 4: Prompt Design Worksheet
+markdown
+Copy
+**Use Case:**  
+**User Role:**  
+**Framework Used (ICE, RCR, etc.):**  
+**Prompt (full sentence):**  
+**Expected Output:**  
+**Tool Used:**  
+**How will it be evaluated?:**  
