@@ -1,0 +1,115 @@
+🧠 Workshop Materials: AI for Industry Collaboration
+📘 1. Workshop Overview
+Title:
+“Using AI Tools for Academic–Industry Collaboration: Grants, Research & Beyond”
+
+Duration:
+2–3 hours (can be split into modules)
+
+Target Audience:
+
+Academic researchers
+
+Research coordinators
+
+Postgraduate students
+
+Industry innovation managers
+
+Learning Objectives:
+
+Understand how AI tools like ChatGPT and Claude support collaboration
+
+Learn structured prompt design techniques
+
+Identify suitable AI tools for specific tasks
+
+Practice using the prototype prompt library and AI tool recommender
+
+Develop grant materials, research outputs, and communication templates using AI
+
+📝 2. Core Workshop Modules
+🔹 Module 1: Introduction to AI in Industry Collaboration
+Format: Slide deck or interactive PDF
+Includes:
+
+What is AI-driven collaboration?
+
+Challenges in academia–industry partnerships
+
+Where AI fits in: communication, grant writing, partner matching
+
+Demo: ChatGPT & Claude comparison for summarizing research
+
+🔹 Module 2: Prompt Engineering Techniques
+Format: Printed handout or Notion page
+Content:
+
+Explanation of key frameworks (ICE, RCR, Chain-of-Thought, Task Prompt)
+
+Prompt anatomy: instruction, context, example
+
+Temperature control and creativity tuning
+
+Do’s and Don’ts for different users (students, researchers, staff)
+
+🧪 3. Hands-On Exercises
+✍️ Exercise Set A: Grant Writing Prompts
+Activity	Description	Tool
+A1: Grant Discovery	Use a prompt to find 3 relevant grants for a health-AI collaboration.	ChatGPT + Dimensions.ai
+A2: Proposal Drafting	Use RCR format to generate a 500-word draft proposal.	Claude
+A3: Executive Summary	Write a 200-word summary using an ICE-based prompt.	ChatGPT
+Supplement:
+Provide grant template samples from Grantable.ai or existing proposals. Include sections like Problem, Method, Impact, Budget, Industry Role.
+
+📚 Exercise Set B: Research-Based Prompts
+👩‍🎓 For Students:
+Level	Task	Tool
+Beginner	Summarize research method in 3 lines	ChatGPT
+Intermediate	Write a mini lit review from 3 sources	Claude
+Advanced	Identify gap + propose research plan	Claude or GPT-4
+👩‍🏫 For Academic Staff:
+Level	Task	Tool
+Beginner	Draft email to initiate collaboration	ChatGPT
+Intermediate	Generate abstract for joint paper	Claude
+Advanced	Create research roadmap with KPIs	Claude or Notion AI
+Supplement:
+Provide evaluation rubrics to compare prompt effectiveness by output structure, relevance, and clarity.
+
+🛠 Exercise Set C: Industry Use Case Prompts
+Category	Prompt Activity	Tool
+Manufacturing	Suggest 3 AI tools for automation	ChatGPT
+Sustainability	Write a 1-page carbon footprint proposal	Claude
+Smart Cities	Map potential partners for urban AI project	ChatGPT + Dimensions.ai
+Supplement:
+Provide use case brief templates, and include industry background scenarios for role-play.
+
+📄 4. Pre- and Post-Workshop Assessments
+✅ Pre-Workshop (Before)
+How confident are you in using AI for collaboration tasks?
+
+Have you used tools like ChatGPT/Claude before?
+
+Rate your familiarity with grant writing or research summaries.
+
+✅ Post-Workshop (After)
+What AI tool do you feel most comfortable using?
+
+Can you now draft a grant summary or research abstract with AI?
+
+What was your biggest takeaway from the hands-on prompts?
+
+Format: Google Form / Typeform / Paper Handout
+
+📂 5. Resource Pack
+Item	Format	Description
+Prompt Library	GitHub / Notion	Organized by domain, use case, AI tool, and technique
+Quick-Start Guides	PDF / Canva	"How to use this prompt", prompt writing checklist, tool login steps
+Slide Deck	PowerPoint / Google Slides	Intro to AI, prompt design, tool comparison
+Sample Templates	Word / PDF	Grant proposal, project brief, partnership email
+Cheat Sheets	PDF	Prompt frameworks, tool strengths, tone & temperature control
+🤝 6. Optional Group Activity (Advanced)
+Title: “Pitch the Prompt”
+
+Objective:
+Each group picks a scenario (e.g., joint AI grant, startup collaboration) → writes 2 prompts → tests them in Claude and ChatGPT → presents outputs and discusses which worked better and why.
