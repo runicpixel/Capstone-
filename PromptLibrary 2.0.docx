@@ -1,0 +1,87 @@
+Grant Writing Prompts (university–industry focused)
+
+Research-Based Prompts (for students and academic staff – Easy, Intermediate, Hard)
+
+Additional Prompts for other relevant collaboration scenarios
+
+📑 1. Grant Writing Prompts – University–Industry Collaboration
+✅ Template 1: Grant Discovery Prompt
+(ICE Framework + Task Prompt)
+Instruction: Identify 3 active grant opportunities for joint academic–industry projects.
+Context: The research involves AI-driven health data analysis between a university lab and a biotech startup.
+Example Output:
+| Grant Name | Funding Body | Eligibility | Deadline | Link |
+
+✅ Template 2: Grant Proposal Drafting Prompt
+(RCR + Chain-of-Thought)
+Role: You are a grant writer drafting a proposal for a university–industry sustainability project.
+Constraints: Word limit: 500 words, must include SDG alignment and industrial partner contribution.
+Result: Step-by-step draft of the Introduction, Problem Statement, Objectives, and Expected Outcomes.
+
+✅ Template 3: Reviewer-Oriented Summary Prompt
+(ICE + Temperature Control: low)
+Instruction: Write a 200-word summary for a grant proposal that highlights innovation, collaboration impact, and ROI for reviewers.
+Context: Joint proposal by an AI research lab and an environmental engineering firm.
+Temperature: Low – focus on clarity and professionalism.
+
+🎓 2. Research-Based Prompts – Academic Focus (Students & Faculty)
+🧑‍🎓 For Students
+✅ Beginner
+Prompt (ICE + Chain-of-Thought):
+Instruction: Summarize the methodology section of this AI research paper.
+Context: Intended for a literature review in a third-year undergraduate project.
+Example Output: 3-sentence summary in simple language.
+
+✅ Intermediate
+Prompt (RCR + Task Prompt):
+Role: You are a final-year student building a capstone on smart city IoT.
+Constraints: Use only 3 sources and explain relevance.
+Result: A 300-word mini-lit review structured by topic.
+
+✅ Advanced
+Prompt (Chain-of-Thought + Temperature Medium):
+Instruction: Identify a gap in this AI in healthcare research and propose an experiment to address it.
+Context: Student preparing for a publication or thesis proposal.
+Temperature: Medium – allow some creativity in proposing novel solutions.
+
+👩‍🏫 For Academic Staff / Faculty
+✅ Beginner
+Prompt (Task Prompt + ICE):
+Draft an outreach email to an AI startup proposing collaboration on an industry-applied research project.
+
+✅ Intermediate
+Prompt (RCR + Chain-of-Thought):
+Role: You are a senior lecturer preparing an abstract for a joint research project.
+Constraints: 250 words, co-authored with an industry partner, highlight mutual benefit.
+Result: A polished abstract ready for conference or grant submission.
+
+✅ Advanced
+Prompt (ICE + Taxonomy):
+Instruction: Generate a strategic research roadmap with milestones, KPIs, and partner roles for a 2-year AI collaboration in predictive maintenance.
+Context: Faculty leading a funded research centre with industry partners.
+
+🌐 3. Additional Prompts for Other Collaboration Categories
+🏭 Manufacturing (Automation)
+Prompt (RCR + ICE):
+Role: AI consultant for a manufacturing plant.
+Constraints: No disruption to current supply chain software.
+Result: Suggest 3 integration points for AI-driven automation. Include tool names and expected efficiency gains.
+
+🌱 Sustainability (Innovation Discovery)
+Prompt (Taxonomy + Chain-of-Thought):
+Instruction: Identify 5 leading-edge sustainability research groups in Europe working on AI-based green tech.
+Context: Industry partner seeking long-term collaboration opportunities.
+Example Output: Research group name, focus area, past collaborations, contact lead.
+
+💡 Tech Transfer / Commercialisation
+Prompt (ICE + Task Prompt):
+Instruction: Generate a commercialization strategy for a university AI tool focused on predictive analytics in logistics.
+Context: Designed for tech transfer office.
+Example Output: Market fit, industry sectors, IP considerations, and go-to-market plan.
+
+🏙️ Smart Cities Collaboration
+Prompt (RCR + Chain-of-Thought):
+Role: Smart city planner working with a university data lab.
+Constraints: Project must include mobility, energy, and citizen engagement components.
+Result: A project brief with 3 collaborative objectives and stakeholder involvement strategy.
+
