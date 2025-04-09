@@ -1,0 +1,132 @@
+ User Story – Student Persona in AI-Driven Collaboration
+📌 What is a User Story?
+A user story is a short, simple description of a user, their goals, and what they need to accomplish — often written from the user’s point of view. In AI collaboration projects, user stories help define how different types of users interact with AI tools, and what kind of support they require.
+
+👩‍🎓 User Persona: Aarav Mehta – Final-Year Computer Science Student
+Age: 22
+
+University: R&D-focused institution in Melbourne
+
+Field: Artificial Intelligence & Smart Cities
+
+Current Task: Capstone project involving collaboration with a transport tech startup
+
+Skills: Python, basic machine learning, academic writing
+
+Challenges: Translating academic research into practical proposals, writing structured grant abstracts, and identifying real collaboration pathways
+
+Goal: To co-write a research proposal with an industry partner and improve cross-sector communication
+
+🧩 User Story Statement
+“As a final-year student collaborating with an industry partner, I want to use AI to help me structure and simplify grant proposals and industry communication materials so that I can contribute professionally, save time, and improve the quality of our project outputs.”
+
+🤖 How AI Tools Help Aarav
+Need	AI Support	Tool/Prompt Example
+Writing a structured grant abstract	Use ICE framework in ChatGPT or Claude to generate a 250-word abstract	“As a university student, write an abstract summarizing my project using AI for smart mobility.”
+Summarizing literature for industry	Translate dense academic papers into industry-friendly insights	“Summarize this paper in plain language for a transport tech executive.”
+Finding relevant research partners	Use Dimensions.ai to find institutions or people working on similar projects	Filter: AI + Mobility + Academic–Industry collaboration
+Generating emails for collaboration	Draft professional messages to startup mentors or grant coordinators	“Write an email requesting a meeting to discuss joint funding for a smart mobility AI project.”
+⚠️ Challenges Aarav Faces
+Lack of experience in formal proposal writing
+
+Struggles to present ideas in industry-appropriate language
+
+Needs guidance on what kind of prompts produce high-quality outputs
+
+Time management due to balancing research and writing
+
+✅ Outcome of AI Support
+Aarav successfully drafts a professional-grade proposal abstract with Claude
+
+Uses ChatGPT to brainstorm and refine prompts for presentations
+
+Finds 2 relevant funding sources through Dimensions.ai
+
+Gains confidence communicating with industry mentors using AI-assisted writing
+
+
+
+
+
+2nd one 
+
+
+📄 User Story – Grant Writing for Academic–Industry Collaboration
+👩‍🏫 User Persona: Dr. Maya Rangan – Early-Career Academic Researcher
+Age: 34
+
+Role: Lecturer and Research Lead, School of Engineering
+
+Institution: Technology-focused university working with local startups
+
+Specialization: AI for sustainable urban infrastructure
+
+Current Task: Co-developing a grant proposal with a green tech company
+
+Experience Level: Technically strong, limited experience with external grant writing
+
+Goal: Submit a collaborative proposal for an upcoming government grant call
+
+Challenges: Time pressure, aligning academic and industry language, lack of grant writing templates
+
+🧩 User Story Statement
+“As a researcher leading a joint project with an industry partner, I want to use AI to help draft, structure, and refine our grant proposal so I can communicate the project’s impact clearly, save time, and increase our chances of funding success.”
+
+🔧 How AI Supports Maya in Grant Writing
+Need	AI Support	Tool & Prompt Example
+Find relevant grant calls	Use Dimensions.ai to discover active funding opportunities	Search: “AI + sustainability + joint funding” in Dimensions.ai
+Structure a professional proposal	Use ChatGPT or Claude with ICE or RCR to create drafts	Prompt: "Write a 500-word proposal for a university–industry collaboration on AI for green building design."
+Summarize proposal for reviewers	Use low-temperature setting in ChatGPT to create concise summaries	Prompt: "Summarize this proposal for a non-technical funding committee, max 200 words."
+Define partner roles clearly	Use Claude to list stakeholder contributions and timeline	Prompt: "As a grant coordinator, outline partner roles and expected milestones over 12 months."
+⚠️ Challenges Maya Faces
+Adapting to grant language and format (word limits, clarity, tone)
+
+Aligning academic research focus with industry outcomes
+
+Juggling project writing while leading a research team
+
+Limited experience identifying high-potential grants quickly
+
+✅ Results from AI Support
+Maya generates 3 proposal drafts using Claude with prompt refinements
+
+ChatGPT helps her rewrite technical content for broader audiences
+
+Finds 2 highly relevant grants through Dimensions.ai, complete with deadlines and eligibility filters
+
+Uses the proposal structure generated by AI to co-write with the industry partner efficiently
+
+🎯 Impact on Collaboration
+Faster, more aligned proposal drafting process
+
+Clearer communication of mutual benefits and research impact
+
+Increased likelihood of successful grant submission
+
+Stronger working relationship with industry partner through shared tools and clarity
+
+
+
+3rd one 
+   📘 User Story 3: Partner Matching & Research Mapping – Coordinator Level
+🧑‍💼 Persona:
+Name: Jacob Lin
+Role: University Research Development Coordinator
+Focus: Supporting multidisciplinary collaborations
+Scenario: Assisting faculty in finding relevant industry partners for ongoing AI research
+
+💬 User Story Statement:
+“As a research coordinator, I want to use AI to match academic teams with potential industry collaborators so I can support impactful partnerships.”
+
+💡 AI Support & Tools:
+Dimensions.ai: Searches for companies funding similar research or involved in publications
+
+ChatGPT: Drafts email introductions and engagement briefs
+
+Prompt:
+"Find 3 companies working on AI in logistics who have funded academic research in the past 3 years."
+
+Outcome:
+Jacob creates a shortlist of 3 high-fit industry partners and supports a grant application with summarized alignment reports.
+
+ 
